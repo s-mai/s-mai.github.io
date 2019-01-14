@@ -33,18 +33,9 @@ const Contact = (props) => (
                 </section>
                 <section>
                     <div className="contact-method">
-                        <span className="icon alt fa-phone"></span>
-                        <h3>LinkedIn</h3>
-                        <span>https://www.linkedin.com/in/steven-mai-349346141/</span>
-                    </div>
-                </section>
-                <section>
-                    <div className="contact-method">
-                        <span className="icon alt fa-home"></span>
-                        <h3>Address</h3>
-                        <span>1234 Somewhere Road #5432<br />
-                        Nashville, TN 00000<br />
-                        United States of America</span>
+                        <span className="icon alt fa-linkedin"></span>
+                        <h3><a href="https://www.linkedin.com/in/steven-mai-349346141/">LinkedIn</a></h3>
+
                     </div>
                 </section>
             </section>
